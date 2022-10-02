@@ -14,6 +14,5 @@ This was my final project for the Netacad course at Northampton Community Colleg
    * Switchport configuration according to best pratices including using switchport security, portfast/loopguard/rootguard/bpdufilter, assigning unused          ports to an unused VLAN, etc
   
 Configurations have been editied for brevity.
-
-!(https://i.imgur.com/cqs0M1b.png) 
    
+![Topology]([https://i.imgur.com/cqs0M1b.png])
