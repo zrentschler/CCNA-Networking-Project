@@ -15,4 +15,4 @@ This was my final project for the Netacad course at Northampton Community Colleg
   
 Configurations have been editied for brevity.
    
-![Topology]([https://i.imgur.com/cqs0M1b.png])
+![Topology](https://i.imgur.com/cqs0M1b.png)
