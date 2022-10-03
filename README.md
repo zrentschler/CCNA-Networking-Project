@@ -11,8 +11,8 @@ This was my final project for the Netacad course at Northampton Community Colleg
    * RPVST+
    * Etherchannel
    * VLAN configuration and interVLAN routing
-   * Switchport configuration according to best pratices including using switchport security, portfast/loopguard/rootguard/bpdufilter, assigning unused          ports to an unused VLAN, etc
+   * Switchport configuration according to best practices including using switchport security, portfast/loopguard/rootguard/bpdufilter, assigning unused          ports to an unused VLAN, etc
   
-Configurations have been editied for brevity.
+Configurations have been edited for brevity.
    
 ![Topology](https://i.imgur.com/cqs0M1b.png)
